@@ -1,16 +1,36 @@
 # screen_ui_app
 
-A new Flutter project.
+# flutter UI From day 1 to day 10
 
-## Getting Started
+# day 0
+<img src="assets/screenshot/Day0/0.png" height="500em" />
 
-This project is a starting point for a Flutter application.
+# day 1
+<img src="assets/screenshot/Day1/0.png" height="500em" />
 
-A few resources to get you started if this is your first Flutter project:
+# day 2
+<img src="assets/screenshot/Day2/0.png" height="500em" />&nbsp;<img src="assets/screenshot/Day2/1.png" height="500em" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# day 3
+<img src="assets/screenshot/Day3/0.png" height="500em" />&nbsp;<img src="assets/screenshot/Day3/1.png" height="500em" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# day 4
+<img src="assets/screenshot/Day4/0.png" height="500em" />&nbsp;<img src="assets/screenshot/Day4/1.png" height="500em" />
+
+# day 5
+<img src="assets/screenshot/Day5/0.png" height="500em" />
+
+# day 6
+<img src="assets/screenshot/Day6/0.png" height="500em" />&nbsp;<img src="assets/screenshot/Day6/2.png" height="500em" />&nbsp;<img src="assets/screenshot/Day6/1.png" height="500em" />
+
+# day 7
+<img src="assets/screenshot/Day7/0.png" height="500em" />&nbsp;<img src="assets/screenshot/Day7/1.png" height="500em" />
+
+# day 8
+<img src="assets/screenshot/Day8/0.png" height="500em" />&nbsp;<img src="assets/screenshot/Day8/1.png" height="500em" />&nbsp;<img src="assets/screenshot/Day8/2.png" height="500em" />
+
+# day 9
+<img src="assets/screenshot/Day9/0.png" height="500em" />&nbsp;<img src="assets/screenshot/Day9/1.png" height="500em" />
+
+# day 10
+<img src="assets/screenshot/Day10/0.png" height="500em" />
